@@ -2,8 +2,7 @@
 
 **ZenFocus** is a beautifully minimalist New Tab extension designed to help you stay focused and calm. It replaces your cluttered browser start page with a clean, aesthetic interface featuring a clock, a focus timer, and a distraction-free search bar.
 
-![ZenFocus Preview](https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?q=80&w=2068&auto=format&fit=crop&ixlib=rb-4.0.3)
-*(Note: Replace with actual screenshot of your extension)*
+![ZenFocus Preview](https://drive.google.com/uc?export=view&id=1M97wo3h2pnovN933JUv6zKS6y6sjtvAi)
 
 ## ✨ Features
 
